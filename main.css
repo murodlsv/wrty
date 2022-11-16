@@ -1,0 +1,212 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    display: flex;
+    height: 60px;
+    flex-wrap: nowrap;
+}
+.img-1{
+    width: 50px;
+
+}
+.ul{
+    width: 50%;
+    margin-top: 15px;
+}
+.li-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    transition: 400ms;
+}
+.li-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    transition: 400ms;
+}
+.li-2:hover{
+    cursor: pointer;
+}
+.li-1:hover{
+    cursor: pointer;
+}
+.button-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    width: 100px;
+    height: 40px;
+}
+.uslugi{
+    height: 60vh;
+    background-color: #F2CEDA;
+}
+
+.h1-1{
+    font-size: x-large;
+    font-family: Berlin Sans FB; 
+    color: #0F0101;
+}
+.h1-2{
+    font-size: x-large;
+    font-family: Berlin Sans FB;
+    color: #D23166;
+}
+.p_1{
+    font-family: Berlin Sans FB;
+    color: #0F0101;
+
+
+}
+.p_2{
+    font-family: Berlin Sans FB;
+    width: 400px;
+    color: #0F0101;
+}
+
+.div-3{
+    padding: 100px;
+    height: 80vh;
+
+    position: relative;
+}
+body{
+    background-color: #F2CEDA;
+}
+.img-2{
+    position: absolute;
+    width: 400px;
+    left: 600px;
+    top: 100px;
+}
+.img-3{
+    position: absolute;
+    width: 480px;
+    left: 520px;
+    top: 200px;
+}
+.div-1{
+    height: 25vh;
+    background-color: white;
+}
+.img-4{
+    width: 50px;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+.p_3{
+    font-size: small;
+    font-family: Berlin Sans FB;
+    color: #0F0101;
+    width: 100px;
+}
+.div-2{
+height: 50vh;
+}
+.p_4{
+    font-size: large;
+    font-family: Berlin Sans FB;
+    color: #0F0101;
+    width: 200px;
+    margin-bottom: 20px;
+
+}
+.h1-3{
+    font-size: xx-large;
+    font-family: Berlin Sans FB;
+    color: #0F0101;
+    margin-bottom: 20px;
+    width: 200px;
+    margin-top: 50px;
+
+}
+.img-5{
+    width: 450px;
+    margin-bottom: 100px;
+    
+
+}
+.p_5{
+    font-family: Berlin Sans FB;
+    font-size: small;
+}
+.p_6{
+    font-family: Berlin Sans FB;
+    font-size: x-large;
+    color: black;
+    margin-top: 100px;
+}
+.p_7{
+    font-family: Berlin Sans FB;
+    font-size: large;
+    color: grey;
+    color: black;
+
+}
+.button-2{
+    display: block;
+    margin: auto;
+}
+.p_8{
+    font-family: Berlin Sans FB;
+    font-size: x-large;
+    color: black;
+    margin-bottom: 20px;
+}
+.img-6{
+    margin-bottom: 20px;
+}
+.img-7{
+    width: 35px;
+
+}
+.div-4{
+    width: 40%;
+
+}
+.div-8{
+    height: 60vh;
+    padding: 20px;
+}
+.img-01{
+    width: 30px;
+    height: 30px;
+}
+.div-01{
+    width: 150px;
+}
+.div-02{
+
+    display: flex;
+    align-items: center;
+}
+.h1-4{
+    font-size: xx-large;
+    font-family: Berlin Sans Fb;
+    margin-top: 100px;
+}
+.input-1{
+width: 100px;
+}
+.div_01{
+    background-attachment: fixed;
+    background-color: black;
+    height: 40vh;
+}
+.div01{
+    background-color: white;
+    height: 40vh;
+}
+.input-2{
+    border: none;
+    outline: none;
+    border: 1px solid red;
+    width: 600px
+
+}
